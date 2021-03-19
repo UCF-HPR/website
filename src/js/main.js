@@ -122,7 +122,7 @@
         offset: 95,
     });
     $('.notice-left').niceScroll({
-        cursorcolor: '#EC1C23',
+        cursorcolor: '#403d3e',
         cursorborder: '0px solid #fff',
         autohidemode: false,
     });
